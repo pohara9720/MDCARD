@@ -1,0 +1,39 @@
+
+	body{
+	background: url(http://wallpapercave.com/wp/xlg364x.jpg);
+	}
+.thumbnail{
+  text-align: center;
+  background: url(https://s-media-cache-ak0.pinimg.com/originals/da/1a/14/da1a142561bd82c319845edc3fbc2f52.jpg);
+  height: 500px;
+  margin-top: 
+  font-family: 'Dancing Script', cursive;
+}
+
+.btn {
+  background-color: pink;
+  font-size: 30px;
+}
+img{
+  height: 250px;
+  width: 250px;
+}
+h3 {
+   font-size:40px;
+      font-family: 'Dancing Script', cursive; !important;
+
+}
+#text {
+   font-family: 'Dancing Script', cursive;
+   font-size: 20px;
+}
+.btn{
+   font-family: 'Lobster', cursive;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) { 
+
+  .thumbnail{
+    height: 600px;
+  }
+}
